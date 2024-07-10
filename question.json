@@ -1,11 +1,11 @@
 [
 {
-    "question" : "What is operating system?",
-    "a": "Collection of programs that manages hardware resources",
-    "b": "Link to interface the hardware and application program",
-    "c": "System service provider to the application program",
+    "question" : "What is urbanisation",
+    "a": "The movement of people from towns and cities to the countryside",
+    "b": "The physical growth of cities ",
+    "c": "The human and physical growth of towns and cities",
     "d": "All of the mentioned",
-    "answer": "d"
+    "answer": "c"
 },
 {
     "question" : "To access the services of operating system, the interface is provided by the:",
